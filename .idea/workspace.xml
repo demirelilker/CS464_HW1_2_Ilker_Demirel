@@ -2,8 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a76dd40-67a6-4d92-af9d-e1483aea2bad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/ilker.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q4_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q4_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report.pytxcode" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/q3main.py" beforeDir="false" afterPath="$PROJECT_DIR$/q3main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report.aux" beforeDir="false" afterPath="$PROJECT_DIR$/report.aux" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report.log" beforeDir="false" afterPath="$PROJECT_DIR$/report.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/report.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report.synctex.gz" beforeDir="false" afterPath="$PROJECT_DIR$/report.synctex.gz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/report.tex" beforeDir="false" afterPath="$PROJECT_DIR$/report.tex" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,15 +32,46 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZaNbCyV8xIjaP2JGkUZNGjuJXX" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="q3main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CS464_HW1_2_Ilker_Demirel" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/q3main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.q3main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -45,14 +86,62 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="469" y="271" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585073829423">
       <screen x="66" y="23" width="1374" height="877" />
     </state>
     <state x="469" y="271" key="#com.intellij.fileTypes.FileTypeChooser/66.23.1374.877@66.23.1374.877" timestamp="1585073829423" />
-    <state x="430" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1585120308552">
+    <state width="1353" height="230" key="GridCell.Tab.0.bottom" timestamp="1585923761257">
       <screen x="66" y="23" width="1374" height="877" />
     </state>
-    <state x="430" y="294" key="com.intellij.ide.util.TipDialog/66.23.1374.877@66.23.1374.877" timestamp="1585120308552" />
+    <state width="1353" height="230" key="GridCell.Tab.0.bottom/64.23.1376.877@64.23.1376.877" timestamp="1585230384923" />
+    <state width="1353" height="230" key="GridCell.Tab.0.bottom/66.23.1374.877@66.23.1374.877" timestamp="1585923761257" />
+    <state width="1353" height="230" key="GridCell.Tab.0.center" timestamp="1585923761257">
+      <screen x="66" y="23" width="1374" height="877" />
+    </state>
+    <state width="1353" height="230" key="GridCell.Tab.0.center/64.23.1376.877@64.23.1376.877" timestamp="1585230384923" />
+    <state width="1353" height="230" key="GridCell.Tab.0.center/66.23.1374.877@66.23.1374.877" timestamp="1585923761257" />
+    <state width="1353" height="230" key="GridCell.Tab.0.left" timestamp="1585923761256">
+      <screen x="66" y="23" width="1374" height="877" />
+    </state>
+    <state width="1353" height="230" key="GridCell.Tab.0.left/64.23.1376.877@64.23.1376.877" timestamp="1585230384922" />
+    <state width="1353" height="230" key="GridCell.Tab.0.left/66.23.1374.877@66.23.1374.877" timestamp="1585923761256" />
+    <state width="1353" height="230" key="GridCell.Tab.0.right" timestamp="1585923761257">
+      <screen x="66" y="23" width="1374" height="877" />
+    </state>
+    <state width="1353" height="230" key="GridCell.Tab.0.right/64.23.1376.877@64.23.1376.877" timestamp="1585230384923" />
+    <state width="1353" height="230" key="GridCell.Tab.0.right/66.23.1374.877@66.23.1374.877" timestamp="1585923761257" />
+    <state width="1353" height="285" key="GridCell.Tab.1.bottom" timestamp="1585920295622">
+      <screen x="66" y="23" width="1374" height="877" />
+    </state>
+    <state width="1353" height="285" key="GridCell.Tab.1.bottom/64.23.1376.877@64.23.1376.877" timestamp="1585145500087" />
+    <state width="1353" height="285" key="GridCell.Tab.1.bottom/66.23.1374.877@66.23.1374.877" timestamp="1585920295622" />
+    <state width="1353" height="285" key="GridCell.Tab.1.center" timestamp="1585920295621">
+      <screen x="66" y="23" width="1374" height="877" />
+    </state>
+    <state width="1353" height="285" key="GridCell.Tab.1.center/64.23.1376.877@64.23.1376.877" timestamp="1585145500086" />
+    <state width="1353" height="285" key="GridCell.Tab.1.center/66.23.1374.877@66.23.1374.877" timestamp="1585920295621" />
+    <state width="1353" height="285" key="GridCell.Tab.1.left" timestamp="1585920295621">
+      <screen x="66" y="23" width="1374" height="877" />
+    </state>
+    <state width="1353" height="285" key="GridCell.Tab.1.left/64.23.1376.877@64.23.1376.877" timestamp="1585145500086" />
+    <state width="1353" height="285" key="GridCell.Tab.1.left/66.23.1374.877@66.23.1374.877" timestamp="1585920295621" />
+    <state width="1353" height="285" key="GridCell.Tab.1.right" timestamp="1585920295622">
+      <screen x="66" y="23" width="1374" height="877" />
+    </state>
+    <state width="1353" height="285" key="GridCell.Tab.1.right/64.23.1376.877@64.23.1376.877" timestamp="1585145500087" />
+    <state width="1353" height="285" key="GridCell.Tab.1.right/66.23.1374.877@66.23.1374.877" timestamp="1585920295622" />
+    <state x="430" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1585923774905">
+      <screen x="66" y="23" width="1374" height="877" />
+    </state>
+    <state x="430" y="294" key="com.intellij.ide.util.TipDialog/66.23.1374.877@66.23.1374.877" timestamp="1585923774905" />
+    <state x="419" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1585306477200">
+      <screen x="66" y="23" width="1374" height="877" />
+    </state>
+    <state x="418" y="213" width="670" height="676" key="search.everywhere.popup/64.23.1376.877@64.23.1376.877" timestamp="1585164133800" />
+    <state x="419" y="213" width="670" height="676" key="search.everywhere.popup/66.23.1374.877@66.23.1374.877" timestamp="1585306477200" />
   </component>
 </project>
